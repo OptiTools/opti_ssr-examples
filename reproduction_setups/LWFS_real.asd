@@ -18,7 +18,7 @@
 
     <loudspeaker><position x="2" y="0.065"/><orientation azimuth="180"/></loudspeaker>
     <loudspeaker><position x="2" y="0.305"/><orientation azimuth="180"/></loudspeaker>
-    <loudspeaker><position x="2" y="0.550"/><o mrientation azimuth="180"/></loudspeaker>
+    <loudspeaker><position x="2" y="0.550"/><orientation azimuth="180"/></loudspeaker>
     <loudspeaker><position x="2" y="0.775"/><orientation azimuth="180"/></loudspeaker>
     <loudspeaker><position x="2" y="1.020"/><orientation azimuth="180"/></loudspeaker>
     <loudspeaker><position x="2" y="1.255"/><orientation azimuth="180"/></loudspeaker>

@@ -10,8 +10,8 @@
 # Author: Felix Immohr
 # Usage: bash LocalWFS_startup.sh <scene-file>
 
-ssr-wfs -c ssr_real_repr.conf &
-ssr-wfs -c ssr_virtual_repr.conf $1 &
+ssr-wfs -c ssr_conf_files/ssr_real_repr.conf &
+ssr-wfs -c ssr_conf_files/ssr_virtual_repr.conf $1 &
 
 sleep 20s
 
