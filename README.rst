@@ -18,5 +18,6 @@ Opti_SSR repository:
 
 Usage
 -----
-Run the desired script and pass a scene file::
+Run the desired script and pass a scene file. ::
+
 	./LocalWFS_startup.sh <scene-file>
