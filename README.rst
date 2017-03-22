@@ -11,10 +11,10 @@ Therefore it may be necessary to start the affected instance in non-GUI-mode to 
 This may not be the case in the future.
 
 Source code:
-    https://github.com/bertmcmeyer/opti_ssr-examples
+    https://github.com/feliximmohr/opti_ssr-examples
 
 Opti_SSR repository:
-	https://github.com/bertmcmeyer/opti_ssr
+	https://github.com/feliximmohr/opti_ssr
 
 Usage
 -----
