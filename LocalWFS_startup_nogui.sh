@@ -10,9 +10,9 @@
 # Author: Felix Immohr, 2016
 # Usage: bash LocalWFS_startup.sh <scene-file>
 
-ssr-wfs -c ssr_conf_files/ssr_virtual_repr.conf $1 &
+ssr-wfs --loop -c ssr_conf_files/ssr_virtual_repr.conf $1 & 
 
-ssr-wfs --no-gui -c ssr_conf_files/ssr_real_repr.conf &
+ssr-wfs --loop --no-gui -c ssr_conf_files/ssr_real_repr.conf &
 
 # stop and rewind the playback if at least one instance is started in non-GUI-mode
 sleep 2s
